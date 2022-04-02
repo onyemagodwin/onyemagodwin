@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onyemagodwin
 - 👀 I’m interested in Front-end web scripting using js
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning CSS with a little in python
 - 💞️ I’m looking to collaborate on Web Development
 
 <!---
